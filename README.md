@@ -78,7 +78,7 @@ Das bedeutet:
 Dieses Projekt wurde ausschließlich von CodeMajorX entwickelt und gepflegt.
 Alle Funktionen, Features und Updates stammen aus meiner eigenen Feder, um eine klare, konsistente Vision und Qualität sicherzustellen.
 
-Wenn du dennoch Fragen hast, Ideen vorschlagen möchtest oder Feedback geben willst, freue ich mich natürlich sehr über deine Kontaktaufnahme — sei es über GitHub Issues oder direkt über eine Nachricht.
+Wenn du dennoch Fragen hast, Ideen vorschlagen möchtest oder Feedback geben willst, freue ich mich natürlich sehr über deine Kontaktaufnahme sei es über GitHub Issues oder direkt über eine Nachricht.
 
 Warum keine externen Beiträge?
 Ich möchte sicherstellen, dass der Code einheitlich und stabil bleibt.
@@ -88,3 +88,5 @@ Es soll eine klare Linie und ein durchgängiges Konzept gewährleistet sein.
 Die Qualitätssicherung erfolgt aktuell zentral durch mich selbst.
 
 Falls sich das in Zukunft ändert, wird das hier selbstverständlich kommuniziert und entsprechende Richtlinien für Mitwirkende erstellt.
+
+**Beachte bitte dies war eines meiner ersten Projekte und somit noch nicht unter CodeMajor X erschienen werde die Datei wahrscheinlich neu hochladen wo dann CodeMajor X als Firma drin steht.**
